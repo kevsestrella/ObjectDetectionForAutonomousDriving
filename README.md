@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Car detection for Autonomous Driving 👋</h1>
+<h1 align="center">Welcome to Object Detection for Autonomous Driving 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://twitter.com/kevsestrella" target="_blank">
@@ -11,7 +11,13 @@
 ## Install
 
 ```sh
-Jupyter Notebook
+pip install -r requirements.txt
+```
+
+## Usage
+
+```sh
+Open Autonomous_driving_application_Car_detection.ipynb in JupyterNotebook
 ```
 
 ## Author
