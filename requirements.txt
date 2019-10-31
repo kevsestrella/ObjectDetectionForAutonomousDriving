@@ -32,6 +32,7 @@ fsspec==0.4.4
 gast==0.3.0
 gmpy2==2.1.0b1
 grpcio==1.23.0
+gsutil==4.4
 h5py==2.9.0
 heapdict==1.0.0
 idna==2.8
